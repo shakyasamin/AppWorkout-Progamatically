@@ -59,10 +59,10 @@
 				2871C6F22A1B2BC800A53A61 /* AppDelegate.swift */,
 				2871C6F42A1B2BC800A53A61 /* SceneDelegate.swift */,
 				2871C7062A1B2E5300A53A61 /* CardSelectionVC.swift */,
+				2871C7082A1B345200A53A61 /* CWButton.swift */,
 				2871C6FB2A1B2BC900A53A61 /* Assets.xcassets */,
 				2871C6FD2A1B2BC900A53A61 /* LaunchScreen.storyboard */,
 				2871C7002A1B2BC900A53A61 /* Info.plist */,
-				2871C7082A1B345200A53A61 /* CWButton.swift */,
 			);
 			path = AppWorkoutProgamatically;
 			sourceTree = "<group>";
